@@ -1,0 +1,19 @@
+frontend:
+  label: Frontend
+  permalink: /frontend
+  description: Frontend tag description
+
+development:
+  label: Development
+  permalink: /development
+  description: development tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
