@@ -1,0 +1,50 @@
+{
+  "permalink": "/frontend",
+  "editUrl": "https://github.com/johnsonsamuel/makeadifference-learning-hub/blog/2026-01-13-frontend/index.md",
+  "source": "@site/blog/2026-01-13-frontend/index.md",
+  "title": "Frontend Development Starter Guide 🚀",
+  "description": "Welcome! If you're curious about becoming a Frontend Developer (and eventually a Full‑Stack Developer), this starter blog is designed just for you. Think of this as a mini‑course in blog form—covering the what, why, and how, with simple hands‑on exercises you can practice right away.",
+  "date": "2026-01-13T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Frontend",
+      "permalink": "/tags/frontend",
+      "description": "Frontend tag description"
+    },
+    {
+      "inline": true,
+      "label": "html",
+      "permalink": "/tags/html"
+    },
+    {
+      "inline": true,
+      "label": "css",
+      "permalink": "/tags/css"
+    },
+    {
+      "inline": true,
+      "label": "javascript",
+      "permalink": "/tags/javascript"
+    }
+  ],
+  "readingTime": 0.28,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "frontend",
+    "title": "Frontend Development Starter Guide 🚀",
+    "authors": [],
+    "tags": [
+      "frontend",
+      "html",
+      "css",
+      "javascript"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "4-Week Starter Course Plan",
+    "permalink": "/4-week-starter-course-plan"
+  }
+}
