@@ -17,3 +17,36 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+html:
+  label: html
+  permalink: /html
+  description: html tag description
+
+css:
+  label: css
+  permalink: /css
+  description: css tag description
+
+javascript:
+  label: javascript
+  permalink: /javascript
+  description: javascript tag description
+
+course:
+  label: course
+  permalink: /course
+  description: course tag description
+
+
+week:
+  label: week
+  permalink: /week
+  description: week tag description
+
+
+starter:
+  label: starter
+  permalink: /starter
+  description: starter tag description
+
