@@ -41,6 +41,16 @@ const config = {
 
   themes: ['@docusaurus/theme-live-codeblock'],
 
+  plugins: [
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
+
 
   presets: [
     [
