@@ -38,6 +38,8 @@ Build a **simple To-Do list using JavaScript**.
 
 The application should allow users to manage daily tasks using a basic web interface.
 
+![alt text](image.png)
+
 ---
 
 ## ✅ Requirements
@@ -93,3 +95,7 @@ If you can finish all tasks, you are ready to:
 - Build a React To-Do app  
 - Manage state in frontend frameworks  
 - Handle real user interactions  
+
+If you want to learn other concepts in JavaScript, below is the link from MDN.
+
+MDN JavaScript Tutorials — structured from beginner basics to advanced topics, with examples and explanations. JavaScript guide (MDN) https://developer.mozilla.org/en-US/docs/Web/JavaScript
