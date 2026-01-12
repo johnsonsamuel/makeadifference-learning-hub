@@ -1,7 +1,7 @@
 ---
 slug: what-is-frontend
 title: What Is Frontend Development?
-authors: []
+authors: [johnson]
 tags: [frontend]
 ---
 

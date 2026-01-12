@@ -1,7 +1,7 @@
 ---
 slug: javascript-basics
 title: "JavaScript: Bringing Pages to Life"
-authors: []
+authors: [johnson]
 tags: [html, frontend, javascript]
 ---
 

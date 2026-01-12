@@ -1,7 +1,7 @@
 ---
 slug: 4-week-starter-course-plan
 title: 4-Week Starter Course Plan
-authors: []
+authors: [johnson]
 tags: [frontend, course, week, plan, starter]
 ---
 ## What’s Next?

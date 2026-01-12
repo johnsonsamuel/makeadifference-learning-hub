@@ -1,7 +1,7 @@
 ---
 slug: css-basics
 title: CSS Basics
-authors: []
+authors: [johnson]
 tags: [html, frontend, css]
 ---
 
@@ -60,6 +60,18 @@ MDN CSS Tutorials — structured from beginner basics to advanced topics, with e
   </div>
 </>
 ```
+
+Explanation
+
+background-color → fills the box with color 🟨
+
+padding → gives space inside the box
+
+border → draws a line around the box
+
+text-align: center → moves text to the middle
+
+💡 Think: Like putting a toy inside a gift box 🎁
 
 ---
 

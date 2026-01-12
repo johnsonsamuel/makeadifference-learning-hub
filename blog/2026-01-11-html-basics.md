@@ -1,7 +1,7 @@
 ---
 slug: html-basics
 title: HTML Basics
-authors: []
+authors: [johnson]
 tags: [html, frontend]
 ---
 
