@@ -5,9 +5,10 @@ authors: []
 tags: [html, frontend, css]
 ---
 
-## Styling with CSS
+# CSS Basics 🎨
 
-CSS makes your website **beautiful and readable**.
+CSS is what makes websites **colorful, big, small, pretty, and fun**.  
+HTML builds the house 🏠 — CSS paints and decorates it 🎨.
 
 ### Example
 
@@ -38,4 +39,46 @@ h1 {
 
 ✅ Goal: Learn separation of structure and style
 
+If you want to learn other concepts in CSS, below is the link from MDN.
+
+MDN CSS Tutorials — structured from beginner basics to advanced topics, with examples and explanations. CSS Tutorials (MDN) https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials
+
+# Box Example
+
+```jsx live
+<>
+  <div
+    style={{
+      backgroundColor: "orange",
+      padding: "20px",
+      border: "2px solid black",
+      width: "200px",
+      textAlign: "center"
+    }}
+  >
+    I am a box
+  </div>
+</>
+```
+
 ---
+
+# Button Hover Example
+
+```jsx live
+<>
+  <button
+    style={{
+      backgroundColor: "green",
+      color: "white",
+      padding: "10px 20px",
+      border: "none",
+      cursor: "pointer"
+    }}
+    onMouseOver={e => e.target.style.backgroundColor = "orange"}
+    onMouseOut={e => e.target.style.backgroundColor = "green"}
+  >
+    Hover Me
+  </button>
+</>
+```
