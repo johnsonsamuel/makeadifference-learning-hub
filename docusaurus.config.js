@@ -52,6 +52,8 @@ const config = {
             'https://github.com/johnsonsamuel/makeadifference-learning-hub',
         },
         blog: {
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Recent posts',
           routeBasePath: '/', // 👈 Blog becomes homepage
           showReadingTime: true,
           feedOptions: {
@@ -146,7 +148,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} makeadifference.app.`,
+        copyright: `Copyright © ${new Date().getFullYear()} https://makeadifference.app.`,
       },
       prism: {
         theme: prismThemes.github,
