@@ -161,7 +161,10 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} https://makeadifference.app.`,
+        copyright: `Copyright © ${new Date().getFullYear()}
+        <a href="https://makeadifference.app" target="_blank" rel="noopener noreferrer">
+          Make A Difference
+        </a>`,
       },
       prism: {
         theme: prismThemes.github,
