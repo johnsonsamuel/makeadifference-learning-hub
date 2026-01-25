@@ -112,3 +112,5 @@ You don’t need to know everything to start—
 Consistency beats talent in software development.
 
 Happy coding! 🎉
+
+If you have any queries or suggestions, please reach out to <a href="mailto:yoe.johnson@gmail.com">yoe.johnson@gmail.com</a>
