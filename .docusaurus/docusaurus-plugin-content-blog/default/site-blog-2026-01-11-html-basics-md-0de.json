@@ -1,0 +1,43 @@
+{
+  "permalink": "/html-basics",
+  "editUrl": "https://github.com/johnsonsamuel/makeadifference-learning-hub/blog/2026-01-11-html-basics.md",
+  "source": "@site/blog/2026-01-11-html-basics.md",
+  "title": "HTML Basics",
+  "description": "Your First Step: HTML Basics",
+  "date": "2026-01-11T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "html",
+      "permalink": "/tags/html",
+      "description": "html tag description"
+    },
+    {
+      "inline": false,
+      "label": "Frontend",
+      "permalink": "/tags/frontend",
+      "description": "Frontend tag description"
+    }
+  ],
+  "readingTime": 1.17,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "html-basics",
+    "title": "HTML Basics",
+    "authors": [],
+    "tags": [
+      "html",
+      "frontend"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "What Is Frontend Development?",
+    "permalink": "/what-is-frontend"
+  },
+  "nextItem": {
+    "title": "CSS Basics",
+    "permalink": "/css-basics"
+  }
+}

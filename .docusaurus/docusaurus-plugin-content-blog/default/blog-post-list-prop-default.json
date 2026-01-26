@@ -1,0 +1,41 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Frontend Development Starter Guide 🚀",
+      "permalink": "/frontend",
+      "unlisted": false,
+      "date": "2026-01-15T00:00:00.000Z"
+    },
+    {
+      "title": "What Is Frontend Development?",
+      "permalink": "/what-is-frontend",
+      "unlisted": false,
+      "date": "2026-01-14T00:00:00.000Z"
+    },
+    {
+      "title": "HTML Basics",
+      "permalink": "/html-basics",
+      "unlisted": false,
+      "date": "2026-01-11T00:00:00.000Z"
+    },
+    {
+      "title": "CSS Basics",
+      "permalink": "/css-basics",
+      "unlisted": false,
+      "date": "2026-01-10T00:00:00.000Z"
+    },
+    {
+      "title": "JavaScript: Bringing Pages to Life",
+      "permalink": "/javascript-basics",
+      "unlisted": false,
+      "date": "2026-01-09T00:00:00.000Z"
+    },
+    {
+      "title": "4-Week Starter Course Plan",
+      "permalink": "/4-week-starter-course-plan",
+      "unlisted": false,
+      "date": "2026-01-08T00:00:00.000Z"
+    }
+  ]
+}

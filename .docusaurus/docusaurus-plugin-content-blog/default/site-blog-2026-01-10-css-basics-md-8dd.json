@@ -1,0 +1,50 @@
+{
+  "permalink": "/css-basics",
+  "editUrl": "https://github.com/johnsonsamuel/makeadifference-learning-hub/blog/2026-01-10-css-basics.md",
+  "source": "@site/blog/2026-01-10-css-basics.md",
+  "title": "CSS Basics",
+  "description": "CSS is what makes websites colorful, big, small, pretty, and fun.",
+  "date": "2026-01-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "html",
+      "permalink": "/tags/html",
+      "description": "html tag description"
+    },
+    {
+      "inline": false,
+      "label": "Frontend",
+      "permalink": "/tags/frontend",
+      "description": "Frontend tag description"
+    },
+    {
+      "inline": false,
+      "label": "css",
+      "permalink": "/tags/css",
+      "description": "css tag description"
+    }
+  ],
+  "readingTime": 0.78,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "css-basics",
+    "title": "CSS Basics",
+    "authors": [],
+    "tags": [
+      "html",
+      "frontend",
+      "css"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "HTML Basics",
+    "permalink": "/html-basics"
+  },
+  "nextItem": {
+    "title": "JavaScript: Bringing Pages to Life",
+    "permalink": "/javascript-basics"
+  }
+}

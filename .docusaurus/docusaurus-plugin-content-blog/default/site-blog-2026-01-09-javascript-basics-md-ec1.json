@@ -1,0 +1,50 @@
+{
+  "permalink": "/javascript-basics",
+  "editUrl": "https://github.com/johnsonsamuel/makeadifference-learning-hub/blog/2026-01-09-javascript-basics.md",
+  "source": "@site/blog/2026-01-09-javascript-basics.md",
+  "title": "JavaScript: Bringing Pages to Life",
+  "description": "JavaScript: Bringing Pages to Life",
+  "date": "2026-01-09T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "html",
+      "permalink": "/tags/html",
+      "description": "html tag description"
+    },
+    {
+      "inline": false,
+      "label": "Frontend",
+      "permalink": "/tags/frontend",
+      "description": "Frontend tag description"
+    },
+    {
+      "inline": false,
+      "label": "javascript",
+      "permalink": "/tags/javascript",
+      "description": "javascript tag description"
+    }
+  ],
+  "readingTime": 1.47,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "javascript-basics",
+    "title": "JavaScript: Bringing Pages to Life",
+    "authors": [],
+    "tags": [
+      "html",
+      "frontend",
+      "javascript"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "CSS Basics",
+    "permalink": "/css-basics"
+  },
+  "nextItem": {
+    "title": "4-Week Starter Course Plan",
+    "permalink": "/4-week-starter-course-plan"
+  }
+}
