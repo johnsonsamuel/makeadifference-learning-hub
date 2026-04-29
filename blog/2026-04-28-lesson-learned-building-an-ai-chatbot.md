@@ -1,4 +1,9 @@
 ---
+slug: lesson-learned-building-an-ai-chatbot
+title: Lesson Learned Building an AI Chatbot
+authors: []
+tags: [frontend, course, week, plan, starter, vercel, chatbot]
+---
 
 A month ago, while building a resume coach AI chatbot using Lambda functions and deploying them on Vercel(**a leading cloud platform for frontend developers)**, I repeatedly encountered timeout errors in the Vercel logs during testing. As I debugged the issue for sometime, I discovered that I was using *response.json()* instead of streaming the response, which was causing the *timeout* ⌛️errors on Vercel. Once I updated the Lambda functions to use streams, it started to work without issues. 
 
@@ -60,5 +65,9 @@ const res = await fetch("api/chat");
 **What are you building using AI?** 
 
 **Have you faced any issue building using AI and how did you solve it?**
+
+Happy learning 🎉
+
+If you have any queries or suggestions, please reach out to <a href="mailto:yoe.johnson@gmail.com">yoe.johnson@gmail.com</a>
 
 #ai #chatbot #resumebuilder #serverless #vercel #lessonlearned #frontend #developer #learning #node #react #lambda #ui #gemini #chat
