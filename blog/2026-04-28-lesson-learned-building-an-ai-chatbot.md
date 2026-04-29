@@ -9,7 +9,8 @@ A month ago, while building a resume coach AI chatbot using Lambda functions and
 
 💡 I had built the chatbot’s UI using React. 
 
-![image.png](attachment:484e647e-480d-4c15-99c2-31bc56e7458f:image.png)
+<img width="375" height="494" alt="resume-coach" src="https://github.com/user-attachments/assets/fbed9633-764f-4b22-8579-3a2ed3ea0a58" />
+
 
 **Why do we need to use streams in Lambda?**
 
