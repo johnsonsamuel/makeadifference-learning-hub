@@ -1,0 +1,23 @@
+{
+  "id": "vercel-web-analytics",
+  "title": "Getting started with Vercel Web Analytics",
+  "description": "This guide will help you get started with using Vercel Web Analytics on your project, showing you how to enable it, add the package to your project, deploy your app to Vercel, and view your data in the dashboard.",
+  "source": "@site/docs/vercel-web-analytics.md",
+  "sourceDirName": ".",
+  "slug": "/vercel-web-analytics",
+  "permalink": "/docs/vercel-web-analytics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/johnsonsamuel/makeadifference-learning-hub/docs/vercel-web-analytics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

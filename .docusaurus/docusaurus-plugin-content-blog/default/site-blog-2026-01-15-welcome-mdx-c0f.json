@@ -1,0 +1,53 @@
+{
+  "permalink": "/frontend",
+  "editUrl": "https://github.com/johnsonsamuel/makeadifference-learning-hub/blog/2026-01-15-welcome.mdx",
+  "source": "@site/blog/2026-01-15-welcome.mdx",
+  "title": "Frontend Development Starter Guide 🚀",
+  "description": "Welcome to makeadifference blog!!!! If you're curious about becoming a Frontend Developer (and eventually a Full‑Stack Developer), this starter blog is designed just for you. Think of this as a mini‑course in blog form—covering the what, why, and how, with simple hands‑on exercises you can practice right away.",
+  "date": "2026-01-15T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Frontend",
+      "permalink": "/tags/frontend",
+      "description": "Frontend tag description"
+    },
+    {
+      "inline": false,
+      "label": "html",
+      "permalink": "/tags/html",
+      "description": "html tag description"
+    },
+    {
+      "inline": false,
+      "label": "css",
+      "permalink": "/tags/css",
+      "description": "css tag description"
+    },
+    {
+      "inline": false,
+      "label": "javascript",
+      "permalink": "/tags/javascript",
+      "description": "javascript tag description"
+    }
+  ],
+  "readingTime": 0.38,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "frontend",
+    "title": "Frontend Development Starter Guide 🚀",
+    "authors": [],
+    "tags": [
+      "frontend",
+      "html",
+      "css",
+      "javascript"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "What Is Frontend Development?",
+    "permalink": "/what-is-frontend"
+  }
+}
